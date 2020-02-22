@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/YouTubeSearch/.vs/YouTubeSearch/v16
+/YouTubeSearch/YouTubeSearch/bin/Debug/netcoreapp3.1
+/YouTubeSearch/YouTubeSearch/obj
